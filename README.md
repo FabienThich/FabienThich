@@ -1,7 +1,7 @@
 ## Welcome To My GitHub!
 
 I am a high school student at Northview Heights Secondary School. I recently started an internship at <a href="https://www.northpnd.com">North P&D, Inc</a> to gain
-valuable experience in Software Engineering through hands-on activities. You can read all about my internship journey on my personal webiste linked in my bio. 
+valuable experience in Software Engineering through hands-on activities. You can read all about my internship journey on my personal website linked in my bio. 
 
 #### Hobbies and Interest:
 -🏋️ Weight Lifting <br>
