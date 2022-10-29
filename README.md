@@ -9,6 +9,8 @@ valuable experience in Software Engineering through hands-on activities. You can
 -🏸 Badminton <br>
 -💸 Stock Market <br>
 -🪨 Rock Skipping <br>
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=FabienThich)](https://git.io/streak-stats)
 
