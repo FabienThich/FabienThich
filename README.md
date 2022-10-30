@@ -1,6 +1,6 @@
 ## Welcome To My GitHub!
 
-I am a high school student at Northview Heights Secondary School. I recently started an internship at <a href="https://www.northpnd.com">North P&D, Inc</a> to gain
+I am a high school student at Northview Heights Secondary School. I recently started an internship at [North P&D, Inc](https://www.northpnd.com) to gain
 valuable experience in Software Engineering through hands-on activities. You can read all about my internship journey on my personal website linked in my bio. 
 
 #### Hobbies and Interest:
@@ -19,9 +19,7 @@ valuable experience in Software Engineering through hands-on activities. You can
 </div>
  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=FabienThich)](https://git.io/streak-stats) 
-
-<img src="https://github-readme-stats.vercel.app/api?username=FabienThich" />
-
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FabienThich)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
