@@ -1,6 +1,6 @@
 ## Hi, I'm Fabien Thich!
 
-I'm a Specialist High Skills Major graduate with a solid foundation in web development, including React.js, Webflow, Bootstrap, and Python. I'm beginning my journey into Machine Learning, AI, and Data Science, and I'm excited to dive deeper into these fields.
+I'm a Data Science major with a strong background in web development, including React.js, Webflow, Bootstrap, and Python. I'm beginning my journey into Machine Learning, AI, and Data Science, and I'm excited to dive deeper into these fields.
 <br />
 
 🔭 Current Projects: 
