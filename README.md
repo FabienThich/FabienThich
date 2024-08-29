@@ -1,15 +1,19 @@
 ## Welcome To My GitHub!
 
+I'm a Specialist High Skills Major graduate with a solid foundation in web development, including React.js, Webflow, Bootstrap, and Python. I'm beginning my journey into Machine Learning, AI, and Data Science, and I'm excited to dive deeper into these fields.
+
+🔭 Current Projects:
+* I am experimenting with Python-based data science projects.
+
+🌱 Currently Learning:
+* Python for data analysis and machine learning.
+
+💼 Previously:
+* Junior Software Engineer at North P&D, Inc.
+
 <!----I am a high school student at Northview Heights Secondary School. I recently started an internship at [North P&D, Inc](https://www.northpnd.com) to gain
 valuable experience in Software Engineering through hands-on activities. You can read all about my internship journey on my personal website linked in my bio. 
 --->
-
-#### Hobbies and Interest:
--🏋️ Weight Lifting <br>
--🏃 Track & Field <br>
--🏸 Badminton <br>
--💸 Stock Market <br>
--🪨 Rock Skipping <br>
 
 <div> 
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
