@@ -12,8 +12,7 @@ I'm a Data Science major with a strong background in web development, including 
 <br />
 
 💼 Previously:
-* Junior Software Engineer at North P&D, Inc.
-* Software Engineer Intern
+* Software Engineer Intern → Junior Software Engineer at North P&D, Inc.
 <br />
 
 <!----I am a high school student at Northview Heights Secondary School. I recently started an internship at [North P&D, Inc](https://www.northpnd.com) to gain
