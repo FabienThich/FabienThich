@@ -1,6 +1,7 @@
 ## Welcome To My GitHub!
 
 I'm a Specialist High Skills Major graduate with a solid foundation in web development, including React.js, Webflow, Bootstrap, and Python. I'm beginning my journey into Machine Learning, AI, and Data Science, and I'm excited to dive deeper into these fields.
+<br />
 
 🔭 Current Projects:
 * I am experimenting with Python-based data science projects.
@@ -12,6 +13,7 @@ I'm a Specialist High Skills Major graduate with a solid foundation in web devel
 
 💼 Previously:
 * Junior Software Engineer at North P&D, Inc.
+<br />
 
 <!----I am a high school student at Northview Heights Secondary School. I recently started an internship at [North P&D, Inc](https://www.northpnd.com) to gain
 valuable experience in Software Engineering through hands-on activities. You can read all about my internship journey on my personal website linked in my bio. 
