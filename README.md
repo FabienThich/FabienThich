@@ -1,4 +1,4 @@
-## Welcome To My GitHub!
+## Hi, I'm Fabien Thich!
 
 I'm a Specialist High Skills Major graduate with a solid foundation in web development, including React.js, Webflow, Bootstrap, and Python. I'm beginning my journey into Machine Learning, AI, and Data Science, and I'm excited to dive deeper into these fields.
 <br />
@@ -26,6 +26,7 @@ valuable experience in Software Engineering through hands-on activities. You can
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 </div>
  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=FabienThich)](https://git.io/streak-stats) 
