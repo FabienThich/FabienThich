@@ -4,11 +4,11 @@ I'm a Specialist High Skills Major graduate with a solid foundation in web devel
 
 🔭 Current Projects:
 * I am experimenting with Python-based data science projects.
-
+<br />
 
 🌱 Currently Learning:
 * Python for data analysis and machine learning.
-
+<br />
 
 💼 Previously:
 * Junior Software Engineer at North P&D, Inc.
