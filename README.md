@@ -40,8 +40,8 @@ valuable experience in Software Engineering through hands-on activities. You can
 </div>
  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=FabienThich)](https://git.io/streak-stats) 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FabienThich)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabienThich&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FabienThich)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---- 👋 Hi, I’m @FabienThich
