@@ -32,6 +32,16 @@ valuable experience in Software Engineering through hands-on activities. You can
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FabienThich)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabienThich&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub Contributions Graph](https://github-readme-activity-graph.cyclic.app/graph?username=FabienThich&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=FabienThich&theme=onedark)
+![Visitor Count](https://komarev.com/ghpvc/?username=FabienThich&color=blue&style=flat-square)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabienThich&layout=compact&theme=radical)](https://github.com/FabienThich)
+### ⚙️ Tech Stack  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
 
 
 <!---- 👋 Hi, I’m @FabienThich
